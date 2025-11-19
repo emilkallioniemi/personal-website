@@ -1,5 +1,9 @@
 # Welcome to My Code-Based CV
 
+## Live Demo
+
+🌐 **Visit the deployed application**: [https://emilkallioniemise.vercel.app/](https://emilkallioniemise.vercel.app/)
+
 ## Why Code Instead of a PDF?
 
 You're probably here because you reached out with a job opportunity and asked for my CV. Here's the thing: I don't have a traditional PDF resume, and that's intentional.
